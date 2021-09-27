@@ -16,6 +16,7 @@ I got the requiremts from upwork job posting and I opted to sit down turn the re
 ### Language/Framewok used
 -Laravel  8.X
 -Jetstream with Vue Frontend
+-Twilio sms platform
 
 ### Feel free to clone and use/advance it 
 
