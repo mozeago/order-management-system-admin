@@ -13,6 +13,9 @@ I got the requiremts from upwork job posting and I opted to sit down turn the re
 - Customer notified of the delivery ETA via sms.
 - Upon delivery, order is set to closed and delivery personel is paid from the system.
 
+### CI/CD
+The Project will be hosted on heroku and CI/CD will be handled via github actions
+
 ### Language/Framewok used
 -Laravel  8.X
 -Jetstream with Vue Frontend
